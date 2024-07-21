@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @BraydenEdelman
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning the basics of compsci
+- 📫 How to reach me: LinkedIn and Email!
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Honey doesn't expire!
